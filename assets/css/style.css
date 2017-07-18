@@ -1,0 +1,97 @@
+body{
+	background-image: url("../images/background.jpg");
+
+}
+
+/* Crystal Collectors title */
+.titleCrystal{
+	background-color: brown;
+	height:50px;
+	width:250px;
+	position: relative;
+
+
+}
+
+.titleCrystal h2{
+	color: white;
+	position:relative;
+	text-align: center;
+
+
+}
+
+/* Instructions Container */
+
+
+.containerIntructions{
+	position:relative;
+	display: block;
+	background-color: brown;
+	width: 400px;
+
+
+}
+
+
+/* Container for the results and random number */
+
+.container{
+	position:relative;
+	display: inline;
+	width: 500px;
+}
+
+
+
+.container .randomNumberBox{
+	background:white;
+	width: 200px;
+	position:static;
+	
+
+
+}
+
+
+.container .results{
+	background:white;
+	width: 100px;
+	position: static;
+
+}
+
+
+/* crystal images */
+
+.crystals img{
+	height: 75px;
+	width: 75px;
+}
+
+
+
+/* Container for score */
+
+.containerScore{
+	position: relative;
+	display: inline;
+
+
+
+}
+
+.containerScore .scoreDisplay{
+	background:white;
+	width: 250px;
+
+
+}
+
+.containerScore .actualScore{
+	background:white;
+	width: 250px;
+	height: 100px;
+
+
+}
